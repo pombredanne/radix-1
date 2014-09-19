@@ -1,3 +1,3 @@
-# radix-trie
+# Radix
 
 Space-optimized Trie Data Structure
